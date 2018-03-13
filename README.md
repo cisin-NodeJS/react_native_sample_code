@@ -1,4 +1,4 @@
-# react_native_sample_code
+# React Native Sample Code
 
 ## Get Started
 
